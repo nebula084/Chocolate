@@ -7,3 +7,8 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 ## License
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+
+
+## About
+
+This mod is so cool download it now or you should die.
